@@ -16,4 +16,4 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of final component](single-price-grid-component-master\images\single_price_snapshot.jpg)
+![Screenshot of final component](.\images\single_price_snapshot.jpg)
